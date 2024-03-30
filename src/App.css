@@ -1,0 +1,19 @@
+
+*
+{
+  padding: 0px;
+  margin: 0px;
+}
+
+nav
+{
+  display: flex;
+  background-color:#F05A22;
+  align-items: center;
+  padding: 2rem;
+  color: white;
+  font: 1em sans-serif;
+  justify-content: left;
+  gap: 5rem;
+
+}
